@@ -1,4 +1,4 @@
-# writes "Hello World" to the console
+# writes "Hello world" to the console
 .global main
 
 message:

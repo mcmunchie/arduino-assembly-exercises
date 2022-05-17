@@ -1,4 +1,6 @@
 # adds numbers 1 to 10 backwards and prints the sum to the console
+# i.e: 10 + 9 + 8 + 7 + 6 + 5 + 4 + 3 + 2 + 1
+# output: 10, 19, 27, 34, 40, 45, 49, 52, 54, 55
 .global main
 
 format:
